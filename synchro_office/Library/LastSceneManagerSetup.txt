@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/synchro_offce.unity
+  isLoaded: 1
+  isActive: 1
