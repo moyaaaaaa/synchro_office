@@ -1,57 +1,32 @@
 fileFormatVersion: 2
-guid: 5cb8408c23369a141aaf47a176a31c6d
-timeCreated: 1530349122
+guid: 83eff650a7bd89642bfb4c0c6b56881a
+timeCreated: 1530403236
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: obj1
-    100004: obj2
-    100006: obj3
-    100008: obj4
-    100010: obj5
-    100012: obj6
-    100014: obj7
-    100016: obj8
-    100018: yuka
-    400000: //RootNode
-    400002: obj1
-    400004: obj2
-    400006: obj3
-    400008: obj4
-    400010: obj5
-    400012: obj6
-    400014: obj7
-    400016: obj8
-    400018: yuka
-    2300000: obj1
-    2300002: obj2
-    2300004: obj3
-    2300006: obj4
-    2300008: obj5
-    2300010: obj6
-    2300012: obj7
-    2300014: obj8
-    2300016: yuka
-    3300000: obj1
-    3300002: obj2
-    3300004: obj3
-    3300006: obj4
-    3300008: obj5
-    3300010: obj6
-    3300012: obj7
-    3300014: obj8
-    3300016: yuka
-    4300000: yuka
-    4300002: obj1
-    4300004: obj2
-    4300006: obj3
-    4300008: obj4
-    4300010: obj6
-    4300012: obj5
-    4300014: obj7
-    4300016: obj8
+    100000: ceiling
+    100002: floor
+    100004: glass
+    100006: //RootNode
+    100008: wall
+    400000: ceiling
+    400002: floor
+    400004: glass
+    400006: //RootNode
+    400008: wall
+    2300000: ceiling
+    2300002: floor
+    2300004: glass
+    2300006: wall
+    3300000: ceiling
+    3300002: floor
+    3300004: glass
+    3300006: wall
+    4300000: ceiling
+    4300002: floor
+    4300004: wall
+    4300006: glass
   materials:
     importMaterials: 1
     materialName: 0
